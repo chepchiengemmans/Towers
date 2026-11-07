@@ -1,0 +1,10 @@
+{
+  "description": "A collaboration platform for university students to refine research ideas, find skilled teammates, and manage projects from matching to completion.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
